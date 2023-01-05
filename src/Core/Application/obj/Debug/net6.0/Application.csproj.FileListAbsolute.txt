@@ -1,0 +1,15 @@
+C:\Repository\OnionArchitecture\src\Core\Application\bin\Debug\net6.0\Application.deps.json
+C:\Repository\OnionArchitecture\src\Core\Application\bin\Debug\net6.0\Application.dll
+C:\Repository\OnionArchitecture\src\Core\Application\bin\Debug\net6.0\Application.pdb
+C:\Repository\OnionArchitecture\src\Core\Application\bin\Debug\net6.0\Domain.dll
+C:\Repository\OnionArchitecture\src\Core\Application\bin\Debug\net6.0\Domain.pdb
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.dll
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\Application.pdb
+C:\Repository\OnionArchitecture\src\Core\Application\obj\Debug\net6.0\ref\Application.dll

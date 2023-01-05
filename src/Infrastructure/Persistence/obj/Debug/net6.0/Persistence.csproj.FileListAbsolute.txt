@@ -1,0 +1,17 @@
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Application.dll
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Application.pdb
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Repository\OnionArchitecture\src\Infrastructure\Persistence\obj\Debug\net6.0\ref\Persistence.dll
